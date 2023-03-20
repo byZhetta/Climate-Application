@@ -3,8 +3,8 @@
 ## Instalación
 
 ```
-git clone https://github.com/byZhetta/Weather-App
-cd Weather-App
+git clone https://github.com/byZhetta/weather-app.git
+cd weather-app
 npm install
 npm start
 ```
