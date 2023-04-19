@@ -5,7 +5,6 @@ Aplicación de consola de clima desarrollada con nodejs. Utiliza las api de mapb
 |Menu principal|Pantalla de búsqueda|
 |:-----------:|:-----------:|
 |![menu](https://res.cloudinary.com/dhpf7lthd/image/upload/v1681844194/projects/menuconsole_phep6d.jpg)|![search](https://res.cloudinary.com/dhpf7lthd/image/upload/v1681844520/projects/responseconsole_f9wx3o.jpg)|
-|             |             |
 
 ## Instalación
 
